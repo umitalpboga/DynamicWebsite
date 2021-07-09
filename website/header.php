@@ -113,7 +113,7 @@ $ayarcek =$ayarsor->fetch(PDO::FETCH_ASSOC);
 					<div class="header-container header-nav header-nav-bar header-nav-bar-primary">
 						<div class="container">
 							<button class="btn header-btn-collapse-nav" data-toggle="collapse" data-target=".header-nav-main">
-								Menu <i class="fa fa-bars"></i>
+								Menu232323 <i class="fa fa-bars"></i>
 							</button>
 
 							<div class="header-search visible-lg">
